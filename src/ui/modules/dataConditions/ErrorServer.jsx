@@ -5,7 +5,10 @@ function ErrorServer() {
   return (
     <>
       <BaseLayout>
-        <BaseText text="Error Server || Reload Again" />
+        <BaseText
+          text="Error Server || Reload Again"
+          className={"min-h-screen"}
+        />
       </BaseLayout>
     </>
   );

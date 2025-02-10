@@ -5,7 +5,7 @@ function Loading() {
   return (
     <>
       <BaseLayout>
-        <BaseText text="Loading...." />
+        <BaseText text="Loading...." className={"min-h-screen"} />
       </BaseLayout>
     </>
   );

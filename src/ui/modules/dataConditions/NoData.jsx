@@ -5,7 +5,7 @@ function NoData() {
   return (
     <>
       <BaseLayout>
-        <BaseText text="No Data" />
+        <BaseText text="No Data" className={"min-h-screen"} />
       </BaseLayout>
     </>
   );
