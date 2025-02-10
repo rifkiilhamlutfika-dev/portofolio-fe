@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import BaseHeading3 from "../base/BaseHeading3";
 import BaseText from "../base/BaseText";
 import BaseLayout from "../layouts/BaseLayout";
-import YoutubeSettings from "../modules/Youtubesettings";
+import YoutubeSettings from "../modules/YoutubeSettings";
 import videosApi from "../../api/videosApi";
 import PropTypes from "prop-types";
 import Loading from "../modules/dataConditions/Loading";
