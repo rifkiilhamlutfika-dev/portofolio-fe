@@ -7,7 +7,6 @@ import BaseHeading3 from "../base/BaseHeading3";
 import CarouselImg from "../modules/CarouselImg";
 import BaseHeading2 from "../base/BaseHeading2";
 import ButtonLink from "../components/ButtonLink";
-import YoutubeSettings from "../modules/YoutubeSettings";
 import FrameworkIconPart from "../modules/FrameworkIconPart";
 import useStore from "../../stores/StoreApp";
 import CardProjectShort from "../modules/CardProjectShort";
@@ -17,6 +16,7 @@ import PropTypes from "prop-types";
 import Loading from "../modules/dataConditions/Loading";
 import NoData from "../modules/dataConditions/NoData";
 import ErrorServer from "../modules/dataConditions/ErrorServer";
+import YoutubeSettings from "../modules/YoutubeSettings";
 
 function Content({
   dataProject = {},
