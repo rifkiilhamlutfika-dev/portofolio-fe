@@ -7,7 +7,7 @@ import BaseHeading3 from "../base/BaseHeading3";
 import CarouselImg from "../modules/CarouselImg";
 import BaseHeading2 from "../base/BaseHeading2";
 import ButtonLink from "../components/ButtonLink";
-import YoutubeSettings from "../modules/Youtubesettings";
+import YoutubeSettings from "../modules/YoutubeSettings";
 import FrameworkIconPart from "../modules/FrameworkIconPart";
 import useStore from "../../stores/StoreApp";
 import CardProjectShort from "../modules/CardProjectShort";
