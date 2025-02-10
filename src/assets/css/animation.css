@@ -1,0 +1,44 @@
+.flicker-width {
+  animation: flick-width 3s infinite ease-out;
+}
+
+.flicker {
+  animation: flick 1.5s infinite ease-out;
+}
+
+@keyframes flick-width {
+  0% {
+    opacity: 0;
+    width: 0;
+  }
+  50% {
+    opacity: 1;
+    width: 100%;
+  }
+  100% {
+    opacity: 0;
+    width: 0;
+  }
+}
+
+@keyframes flick {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.content {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s ease-out;
+}
+
+.content.open {
+  max-height: 10000px;
+}
