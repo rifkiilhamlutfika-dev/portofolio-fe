@@ -1,6 +1,6 @@
 import photoMe from "/public/images/about-me/PHOTO ME.webp";
 import BaseLayout from "../layouts/BaseLayout";
-import ImageSettings from "../components/imageSettings";
+import ImageSettings from "../components/ImageSettings";
 import SocialMediaPart from "../modules/SocialMediaPart";
 import FrameworkIconPart from "../modules/FrameworkIconPart";
 import BaseHeading1 from "../base/BaseHeading1";
