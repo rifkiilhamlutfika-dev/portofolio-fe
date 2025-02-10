@@ -1,4 +1,4 @@
-import ImageSettings from "../components/imageSettings";
+import ImageSettings from "../components/ImageSettings";
 import SectionBoard from "../components/SectionBoard";
 import BaseText from "../base/BaseText";
 import BaseHeading3 from "../base/BaseHeading3";

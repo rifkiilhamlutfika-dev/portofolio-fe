@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { IoIosArrowDown } from "react-icons/io";
-import ImageSettings from "../components/imageSettings";
+import ImageSettings from "../components/ImageSettings";
 import BaseText from "../base/BaseText";
 import BaseHeading2 from "../base/BaseHeading2";
 import BaseHeading3 from "../base/BaseHeading3";
