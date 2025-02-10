@@ -21,7 +21,7 @@ function SocialMediaPart({ className }) {
         </ButtonLink>
         <ButtonLink
           className={"w-5 h-5 overflow-hidden"}
-          link="www.linkedin.com/in/rifki-ilham-lutfika-6353aa350"
+          link="https://www.linkedin.com/in/rifki-ilham-lutfika-6353aa350/"
           blank
         >
           <FaLinkedinIn className="w-full h-full" />
