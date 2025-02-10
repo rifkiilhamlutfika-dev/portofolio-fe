@@ -5,7 +5,7 @@ import SocialMediaPart from "../modules/SocialMediaPart";
 import FrameworkIconPart from "../modules/FrameworkIconPart";
 import BaseHeading1 from "../base/BaseHeading1";
 import BaseHeading2 from "../base/BaseHeading2";
-import YoutubeSettings from "../modules/Youtubesettings";
+import YoutubeSettings from "../modules/YoutubeSettings";
 import BaseHeading3 from "../base/BaseHeading3";
 import TimelineAcademy from "../modules/TimelineAcademy";
 import CardProjectShort from "../modules/CardProjectShort";
